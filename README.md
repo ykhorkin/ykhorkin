@@ -10,7 +10,7 @@
 <img align="left" width="50" height="25" alt="Spark" src="https://github.com/user-attachments/assets/d9a6b370-7658-4712-ad71-8d3d959feb2e" />
 <img align="left" width="50" height="60" alt="Jupiter" src="https://github.com/user-attachments/assets/6ade4f9e-b3ed-4391-92a7-f60f99c6d184" />
 <img align="left" width="50" height="28" alt="Dbeaver" src="https://github.com/user-attachments/assets/40637cb2-e25e-4a52-ba8f-968ce141faf3" />
-<img align="left" width="50" height="6" alt="Datalens" src="https://github.com/user-attachments/assets/7a4879d9-2399-4b1e-8bd9-38f531c10aca" />
+<img align="left" width="80" height="20" alt="Datalens" src="https://github.com/user-attachments/assets/7a4879d9-2399-4b1e-8bd9-38f531c10aca" />
 
 
 
