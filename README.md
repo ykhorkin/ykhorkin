@@ -2,7 +2,7 @@
 ### I am a data analyst specializing in product analytics.
 ### Skills ​​and Tools:
 
-<img align="center" width="70" alt="SQL" src="https://github.com/user-attachments/assets/1273ea3b-5995-4453-9ebb-e129227a303f" />
+<img align="center" width="70" alt="SQL" src="https://github.com/user-attachments/assets/961f9895-07f1-4e63-9b96-211a8cb66154" />
 <img align="center" width="70"  alt="PostgreSQL" src="https://github.com/user-attachments/assets/4447fcba-0bfe-442c-baaa-cea0c7196bd6" />
 <img align="center" width="70" alt="Python" src="https://github.com/user-attachments/assets/de0585e8-ceaa-4158-81ca-a33ae4d726ad" />
 <img align="center" width="70" alt="ClicHouse" src="https://github.com/user-attachments/assets/33cd394c-6de7-464d-a5a5-999eb59d85f3" />
@@ -11,6 +11,5 @@
 <img align="center" width="40" alt="Jupiter" src="https://github.com/user-attachments/assets/6ade4f9e-b3ed-4391-92a7-f60f99c6d184" />
 <img align="center" width="70"  alt="Dbeaver" src="https://github.com/user-attachments/assets/40637cb2-e25e-4a52-ba8f-968ce141faf3" />
 <img align="center" width="70"  alt="Datalens" src="https://github.com/user-attachments/assets/7a4879d9-2399-4b1e-8bd9-38f531c10aca" />
-
 
 
