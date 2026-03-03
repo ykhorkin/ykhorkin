@@ -10,4 +10,4 @@ Clickhouse, PySpark, Apache Airflow, DataLens.
 <img align="left" alt="HTML5" width="32px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png?raw=true" />
 <img align="left" alt="HTML5" width="64px" src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" />
 <img align="left" alt="image" width="32px" src="https://github.com/user-attachments/assets/552818fa-c96b-4077-b53c-4abbb14aec48" />
-<img align="left" alt="HTML5" width="42px" src="https://github.com/github/explore/blob/main/topics/spark/spark.png?raw=true" />
+<img align="left" alt="HTML5" width="32px" src="https://github.com/github/explore/blob/main/topics/spark/spark.png?raw=true" />
