@@ -1,7 +1,7 @@
 ## Hi there, i'm Yury.
-##### I'm a Data Analyst specializing in Product Analytics.
+#### I'm a Data Analyst specializing in Product Analytics.
 
-##### Skills ​​and Tools:
+#### My skills ​​and tools:
 
 <img align="center" width="70" alt="SQL" src="https://github.com/user-attachments/assets/04596b2f-cc3f-4af4-bca6-66a565bbe789" />
 <img align="center" width="70"  alt="PostgreSQL" src="https://github.com/user-attachments/assets/42971841-c1c6-4c11-afd3-95cf808c70de" />
