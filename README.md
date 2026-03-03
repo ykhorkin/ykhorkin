@@ -1,7 +1,7 @@
 ## Hi there, i'm Yury. 👋
 ### I am a data analyst specializing in product analytics.
 ### Skills ​​and Tools:
-<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; justify-content: flex-start;">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; justify-content: flex-start;">
   <img width="50" height="50" style="object-fit: contain; background-color: #f5f5f5; border-radius: 4px;" alt="PostgreSQL" src="https://github.com/user-attachments/assets/4447fcba-0bfe-442c-baaa-cea0c7196bd6" />
   <img width="50" height="50" style="object-fit: contain; background-color: #f5f5f5; border-radius: 4px;" alt="SQL" src="https://github.com/user-attachments/assets/2e28944a-e76d-454b-b83e-0f45ab5c0d76" />
   <img width="50" height="50" style="object-fit: contain; background-color: #f5f5f5; border-radius: 4px;" alt="Python" src="https://github.com/user-attachments/assets/67ba2090-7c6a-42bd-abef-e6ab337c57c4" />
