@@ -9,5 +9,5 @@
   <img alt="image" width="32px" src="https://github.com/user-attachments/assets/552818fa-c96b-4077-b53c-4abbb14aec48" />
   <img alt="Spark" width="32px" src="https://github.com/github/explore/blob/main/topics/spark/spark.png?raw=true" />
   <img alt="Логотип2" width="64px" src="https://repository-images.githubusercontent.com/33884891/3e449402-c463-46f9-aa6c-26942a9e2bdc" />
-  <img alt="image" width="96px" height="32" src="https://github.com/user-attachments/assets/5400deb9-6af0-4475-a2fa-6518e3ed6d3d" />
+  <img  width="96px" height="32" src="https://github.com/user-attachments/assets/5400deb9-6af0-4475-a2fa-6518e3ed6d3d" />
 </div>
