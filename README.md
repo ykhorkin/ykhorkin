@@ -6,3 +6,4 @@ Jupyter Notebook, DBeaver,
 Clickhouse, PySpark, Apache Airflow, DataLens.
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true" />
