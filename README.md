@@ -5,7 +5,7 @@ SQL, PostgreSQL, Python, Matplotlib, Seaborn, SciPy, Numpy, Pandas,
 Jupyter Notebook, DBeaver,
 Clickhouse, PySpark, Apache Airflow, DataLens.
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png?raw=true" />
-<img align="left" alt="HTML5" width="60px" src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" />
+<img align="left" alt="HTML5" width="32px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />
+<img align="left" alt="HTML5" width="32px" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true" />
+<img align="left" alt="HTML5" width="32px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png?raw=true" />
+<img align="left" alt="HTML5" width="55px" src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" />
