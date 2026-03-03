@@ -1,6 +1,8 @@
-## Hi there, i'm Yury.
-### I am a data analyst specializing in product analytics.
-### Skills ​​and Tools:
+## Hi there, <span style="color: #1E88E5;">i'm Yury.</span>
+
+### <span style="color: #004D73;">I'm a Data Analyst</span> specializing in <span style="color: #FF6B4A;">Product Analytics</span>.
+
+### <span style="color: #2E7D32;">Skills and Tools:</span>
 
 <img align="center" width="70" alt="SQL" src="https://github.com/user-attachments/assets/04596b2f-cc3f-4af4-bca6-66a565bbe789" />
 <img align="center" width="70"  alt="PostgreSQL" src="https://github.com/user-attachments/assets/42971841-c1c6-4c11-afd3-95cf808c70de" />
