@@ -1,4 +1,4 @@
-## Hi there, i'm Yury. 👋
+## Hi there, i'm Yury.
 ### I am a data analyst specializing in product analytics.
 ### Skills ​​and Tools:
 
