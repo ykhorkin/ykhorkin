@@ -20,6 +20,6 @@ ____
 - **Additional Skills:** Agile, PMBOK, UX/UI
 
 
-[Portfolio Projects](<https://github.com/ykhorkin/Project>)
+[Portfolio Projects](<https://github.com/ykhorkin/Portfolio_Projects>)
 
 
