@@ -1,7 +1,4 @@
-## Hi there, i'm Yury.
-#### I'm a Data Analyst specializing in Product Analytics.
-
-#### My skills ​​and tools:
+### Hi there, i'm Data Analyst.
 
 <img align="center" width="70" alt="SQL" src="https://github.com/user-attachments/assets/04596b2f-cc3f-4af4-bca6-66a565bbe789" />
 <img align="center" width="70"  alt="PostgreSQL" src="https://github.com/user-attachments/assets/42971841-c1c6-4c11-afd3-95cf808c70de" />
@@ -12,3 +9,13 @@
 <img align="center" width="70"  alt="Dbeaver" src="https://github.com/user-attachments/assets/40637cb2-e25e-4a52-ba8f-968ce141faf3" />
 <img align="center" width="30" alt="Jupiter" src="https://github.com/user-attachments/assets/6ade4f9e-b3ed-4391-92a7-f60f99c6d184" />
 <img align="center" width="80"  alt="Datalens" src="https://github.com/user-attachments/assets/7a4879d9-2399-4b1e-8bd9-38f531c10aca" />
+
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, SciPy, StatsModels
+- **Data Visualization:** Matplotlib, Seaborn
+- **Databases:** PostgreSQL
+- **BigData:** PySpark, Apache, Airflow, Clickhouse
+- **Tools:** Jupyter Notebook, DBeaver, DataLens, Figma, Miro,
+- **Additional Skills:** Agile, PMBOK, UX/UI
+
+
