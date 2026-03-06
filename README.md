@@ -15,8 +15,10 @@ ____
 - **Data Analysis:** Pandas, NumPy, SciPy, StatsModels
 - **Data Visualization:** Matplotlib, Seaborn
 - **Databases:** PostgreSQL
-- **BigData:** PySpark, Apache, Airflow, Clickhouse
+- **BigData:** PySpark, Airflow, Clickhouse
 - **Tools:** Jupyter Notebook, DBeaver, DataLens, Figma, Miro,
 - **Additional Skills:** Agile, PMBOK, UX/UI
+
+
 
 
