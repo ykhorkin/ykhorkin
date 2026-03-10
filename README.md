@@ -13,7 +13,7 @@
 ____
 - **Programming Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, SciPy, StatsModels
-- **Data Visualization:** Matplotlib, Seaborn
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Databases:** PostgreSQL
 - **BigData:** PySpark, Airflow, Clickhouse
 - **Tools:** Jupyter Notebook, DBeaver, DataLens, Figma, Miro,
